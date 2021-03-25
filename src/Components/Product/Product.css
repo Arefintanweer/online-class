@@ -1,0 +1,9 @@
+.product{
+  border-bottom: 1px solid lightgrey;
+}
+.enroll-button{
+  background-color: goldenrod;
+  width: 100px;
+  height: 50px;
+  border-radius: 1px solid lightgrey;
+}
